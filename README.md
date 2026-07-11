@@ -31,7 +31,6 @@ This project provides practical implementations of Scikit-learn Pipelines for bo
 - Jupyter Notebook
 - Google Colab
 
----
 
 ## 📂 Repository Structure
 
