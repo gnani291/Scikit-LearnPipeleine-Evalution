@@ -2,7 +2,6 @@
 
 A comprehensive hands-on guide to building efficient **Machine Learning workflows** using **Scikit-learn Pipelines**. This repository demonstrates how to combine preprocessing, feature engineering, model training, hyperparameter tuning, and model evaluation into reusable and production-ready ML pipelines.
 
----
 
 ## 📌 Overview
 
