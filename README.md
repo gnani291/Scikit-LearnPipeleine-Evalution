@@ -21,7 +21,6 @@ This project provides practical implementations of Scikit-learn Pipelines for bo
 - ✅ Regression Pipeline
 - ✅ Model Evaluation Metrics
 
----
 
 ## 🛠️ Technologies Used
 
