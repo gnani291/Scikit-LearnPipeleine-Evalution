@@ -7,7 +7,6 @@ A comprehensive hands-on guide to building efficient **Machine Learning workflow
 
 This project provides practical implementations of Scikit-learn Pipelines for both **Classification** and **Regression** problems. It covers the complete ML workflow from preprocessing to evaluation while following industry best practices.
 
----
 
 ## 📚 Topics Covered
 
